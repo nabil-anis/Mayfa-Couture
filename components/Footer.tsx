@@ -29,9 +29,6 @@ const Footer: React.FC = () => {
           </a>
         </div>
       </div>
-        {/* Anchored signature */}
-      <span className="absolute right-4 bottom-2 text-gray-400 text-xs italic select-none">By nbl.</span>
-    </footer>
   );
 };
 
